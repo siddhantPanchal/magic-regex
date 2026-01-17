@@ -99,4 +99,4 @@ final passwordRegex = createRegExp(
 
 ## License
 
-MIT
+BSD-3-Clause license
