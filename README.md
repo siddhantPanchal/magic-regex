@@ -20,7 +20,7 @@ Add `magic_regex` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  magic_regex: ^1.0.0
+  magic_regex: ^latest
 ```
 
 ## Quick Start
